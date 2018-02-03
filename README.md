@@ -18,9 +18,9 @@ As long as you have Reddit's PRAW and Google's BeautifulSoup packages installed,
 ## Tests
 
 Here are some example test cases. 
-![Code Test] (https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/CodeTest.png)
-![String Theory] (https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/StringTheory.png)
-![Grace Hopper] (https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/GraceHopper.png)
+![Code Test](https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/CodeTest.png)
+![String Theory](https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/StringTheory.png)
+![Grace Hopper](https://github.com/graceluo-mv/Reddit_ImageBot/blob/master/GraceHopper.png)
 
 
 
